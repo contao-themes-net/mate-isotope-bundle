@@ -3,6 +3,8 @@ Contao + MATE Theme + Isotope = Great Shop :)
 
 Support repository for MATE Isotope Bundle
 
+![MATE Isotope Bundle](https://contao-themes.net/assets/images/a/01_mate-isotope-shop-theme_quadrat-afa8f36f.jpg)
+
 # MATE Isotope Bundle
 
 Das MATE Isotope Bundle liefert einen komplett konfigurierten Isotope-Shop inklusive Demodaten und Templates mit, der in Kombination mit dem MATE Theme genutzt werden kann.
