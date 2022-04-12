@@ -18,7 +18,7 @@ MATE Theme Installation
 https://pdir.de/docs/de/contao/themes/mate/installation/
 
 Isotope Installation
-https://pdir.de/docs/de/contao/themes/mate/installation/isotope-bundle
+https://pdir.de/docs/de/contao/themes/mate-isotope/installation/
 
 Bundle kaufen
 https://contao-themes.net/theme-detail/mate-isotope.html
